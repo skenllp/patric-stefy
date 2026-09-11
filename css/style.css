@@ -1629,6 +1629,12 @@ body:not(.is-revealed) #site * {
   margin: 4px 0
 }
 
+.family-amp--grand {
+  font-size: 18px;
+  margin-top: 14px;
+  margin-bottom: 2px;
+}
+
 .family-home {
   margin-top: 16px;
   font-size: 14px;
